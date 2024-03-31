@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './font;'
 
 function App() {
   return (
@@ -10,10 +11,10 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <div>Learn React</div>
-        <div Class="ultra">Ultra</div>
-        <div Class="ptSerif">Serif</div>
+        <div className="ultra">Ultra</div>
+        <div className="ptSerif">Serif</div>
       </header>
-    </div>
+    </div> 
   );
 }
 
